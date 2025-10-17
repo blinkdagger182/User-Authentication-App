@@ -56,5 +56,3 @@ App.tsx
 
 ## License
 MIT
-# User-Authentication-App
-# User-Authentication-App
